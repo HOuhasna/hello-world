@@ -1,2 +1,3 @@
 # hello-world
-Hello world repository as my first one
+Hello-world repository created as my first one on GitHub
+I am a .Net Developer trying to learn some new technologies/tools like Angular, .Net Core, VSCode, Git/GitHub,...
