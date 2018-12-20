@@ -1,2 +1,3 @@
 # hello-world
 Hello world repository as my first one
+I am a .Net Developer trying to learn some new technologies/tools like Angular, .Net Core, VSCode, Git/GitHub,...
