@@ -1,2 +1,2 @@
 # hello-world
-Hello world repository for as first one
+Hello world repository as my first one
